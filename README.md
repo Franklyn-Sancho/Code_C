@@ -15,3 +15,8 @@ o funcionamento dos sistemas, a raiz, o núcleo, a base de tudo que amamos.
 que precisa e digitar o que for pedido. 
 * Além de adicionar outras operações, quero consertar alguns bugs, mas nada a ver com o resultado final, apenas 
 uma questão de facilidade e interatividade
+
+## 2 - Resistencia_Led
+* Programa em C++ que calcula a resistência necessaria para um Led. Resolve a equação: R = (Vim - Vled)/I
+
+
