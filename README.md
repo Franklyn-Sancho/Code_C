@@ -19,4 +19,7 @@ uma questão de facilidade e interatividade
 ## 2 - Resistencia_Led
 * Programa em C++ que calcula a resistência necessaria para um Led. Resolve a equação: R = (Vim - Vled)/I
 
+## 3 - Election
+* Um programa que as pessoas podem votar em x candidados, depois basta escolher a opção 0 e todos os votos registrados serão contabilizados e mostrados no terminal
+
 
