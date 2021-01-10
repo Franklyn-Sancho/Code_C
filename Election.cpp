@@ -1,4 +1,6 @@
 #include<math.h>
+#include<stdio.h>
+#include<stdlib>
 
 int v=7, c1=0, c2=0, c3=0, c4=0, vn=0, vb=0;
 
